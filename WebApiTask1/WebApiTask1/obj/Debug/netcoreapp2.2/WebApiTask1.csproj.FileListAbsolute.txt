@@ -9,3 +9,6 @@ C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\
 C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.AssemblyInfoInputs.cache
 C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.AssemblyInfo.cs
 C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.RazorTargetAssemblyInfo.cache
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\bin\Debug\netcoreapp2.2\WebApiTask1.pdb
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.dll
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.pdb

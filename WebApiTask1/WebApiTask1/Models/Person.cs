@@ -3,13 +3,19 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace WebApiTask1
+namespace WebApiTask1.Models
 {
     public partial class Person
     {
         public Person()
         {
             Phone = new HashSet<Phone>();
+        }
+
+        public Person(string name, short? age)
+        {
+            Name = name;
+            Age = age;
         }
 
         public long Id { get; set; }

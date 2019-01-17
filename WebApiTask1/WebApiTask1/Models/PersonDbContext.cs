@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace WebApiTask1
+namespace WebApiTask1.Models
 {
     public partial class PersonDbContext : DbContext
     {
