@@ -1,0 +1,11 @@
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\bin\Debug\netcoreapp2.2\WebApiTask1.deps.json
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\bin\Debug\netcoreapp2.2\WebApiTask1.runtimeconfig.json
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\bin\Debug\netcoreapp2.2\WebApiTask1.runtimeconfig.dev.json
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\bin\Debug\netcoreapp2.2\WebApiTask1.dll
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.csprojAssemblyReference.cache
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.csproj.CoreCompileInputs.cache
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.RazorAssemblyInfo.cache
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.RazorAssemblyInfo.cs
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.AssemblyInfoInputs.cache
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.AssemblyInfo.cs
+C:\Users\jani\Documents\backend\WebApiTask1\WebApiTask1\obj\Debug\netcoreapp2.2\WebApiTask1.RazorTargetAssemblyInfo.cache
