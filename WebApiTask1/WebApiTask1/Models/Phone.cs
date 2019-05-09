@@ -7,9 +7,9 @@ namespace WebApiTask1.Models
 {
     public partial class Phone
     {
-        public int Id { get; set; }
+        public long Id { get; set; }
         public string Type { get; set; }
-        [StringLength(10)]
+        [StringLength(50)]
         public string Number { get; set; }
         public long? PersonID { get; set; }
 

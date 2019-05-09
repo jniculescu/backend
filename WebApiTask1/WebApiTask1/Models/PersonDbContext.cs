@@ -22,7 +22,7 @@ namespace WebApiTask1.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 optionsBuilder.UseSqlServer("Data Source=SEIJA-PC\\SQLEXPRESS;Initial Catalog=PersonDB2;Integrated Security=True");
             }
         }
@@ -34,6 +34,8 @@ namespace WebApiTask1.Models
             modelBuilder.Entity<Person>(entity =>
             {
                 entity.Property(e => e.Id).ValueGeneratedNever();
+
+                entity.Property(e => e.Psw).IsUnicode(false);
             });
 
             modelBuilder.Entity<Phone>(entity =>
